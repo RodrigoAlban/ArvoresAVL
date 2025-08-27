@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include "ArvoreAVL.h"
 #include "Utils.h"
+#include "ArvoreAVL.h"
 #include "TAD_ArvoreAVL.h"
 
 pDArvore constroiArvore(int dados[], int tam){
